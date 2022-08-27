@@ -1,0 +1,4 @@
+pandas_ta == 0.1.36b0
+ccxt == 1.39.42
+pandas > 0.25
+matplotlib > 3
